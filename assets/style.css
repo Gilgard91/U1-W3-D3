@@ -1,0 +1,48 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+#myForm{
+    display: inline-block;
+}
+
+td{
+    background-color: rgba(245, 239, 126, 0.651);
+    min-width: 165px;
+    cursor: pointer;
+}
+
+tr{
+    margin-bottom: 0.5rem
+}
+
+#myForm button{
+    background-color: rgb(0, 255, 13);
+    font-weight: bold;
+}
+
+tr button{
+    background-color: rgb(255, 0, 0);
+    font-weight: bold;
+    width: 100%
+    
+}
+
+#task-area{
+    width: max-content;
+    border: 3.5px dashed  ; 
+    padding: 5px; 
+}
+
+table{
+    width: 100%;
+}
+
+
+h3{
+    margin-top: 0;
+    margin-bottom: 0.2rem;
+    text-align: center;
+}
+
